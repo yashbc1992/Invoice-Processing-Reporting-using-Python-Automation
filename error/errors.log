@@ -1,0 +1,6 @@
+Error log - 2026-01-15 22:00:29.859297
+============================================================
+
+invoice_bad.txt
+  - Amount is not a valid number: 'ABC'
+  - Missing Amount
