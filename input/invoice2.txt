@@ -1,3 +1,0 @@
-Invoice Number: INV-2002
-Customer: zenite Ltd
-Amount: 3500

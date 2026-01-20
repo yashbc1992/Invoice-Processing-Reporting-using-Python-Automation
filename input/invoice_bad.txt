@@ -1,3 +1,0 @@
-Invoice Number: INV-2003
-Customer: Demo Co
-Amount: ABC
