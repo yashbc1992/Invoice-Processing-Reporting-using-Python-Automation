@@ -1,0 +1,6 @@
+invoice_automation_project/
+│
+├── extract_invoice_fields.py   ✅ (already done)
+├── ocr_invoice.py              ⬅️ NEXT
+├── images/
+│   └── invoice_sample.png

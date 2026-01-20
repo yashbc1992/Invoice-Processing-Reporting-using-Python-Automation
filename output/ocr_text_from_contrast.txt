@@ -1,0 +1,18 @@
+yaml ©) Copy code
+INVOICE
+
+Invoice Number: INV-1001
+
+Customer Name: ABC Technologies
+
+Invoice Date: 15 January 2026
+
+Item Quantity Price
+
+Laptop 2 50000
+
+Mouse 3 1500
+
+Total Amount: 103500
+
+Thank you for your business.
