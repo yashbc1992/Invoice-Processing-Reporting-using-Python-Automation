@@ -7,7 +7,7 @@ import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 image = cv2.imread(
-    r"C:\Users\yashb\Documents\invoice_automation_project\images\invoice_sample.png")
+    r"C:\Users\yashb\Documents\invoice_automation_project\images\sample_invoice.png")
 
 # Convert to grayscale
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)

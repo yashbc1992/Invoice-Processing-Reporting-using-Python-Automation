@@ -2,7 +2,8 @@ from PIL import Image
 import os
 
 # Input image
-INPUT_IMAGE = "sample_invoice.png"
+INPUT_IMAGE = "Input-Images/sample_invoice.png"
+
 
 # Output folder
 OUTPUT_DIR = "output"

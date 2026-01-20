@@ -123,4 +123,4 @@ Used in tools like Kofax, UiPath, ABBYY
 
 This is industry-relevant, not just theory.
 
-8️⃣ One-line explanation: pytesseract is a Python wrapper that allows Python programs to use the Tesseract OCR engine to extract text from images and scanned documents.
+8️⃣ One-line explanation:pytesseract is a Python wrapper that allows Python programs to use the Tesseract OCR engine to extract text from images and scanned documents.
